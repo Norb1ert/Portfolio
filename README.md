@@ -19,7 +19,7 @@ Strona została zbudowana w oparciu o **HTML** oraz **CSS**, aby zapewnić nowoc
 
 ### 🌍 Demo
 
-🔗 [Zobacz portfolio online](https://twoj-link.vercel.app)
+🔗 [Zobacz portfolio online](https://twoj-link.vercel.app](https://roaring-donut-4c5ceb.netlify.app/)
 
 ---
 
@@ -43,7 +43,7 @@ Built with **HTML** and **CSS**, for speed, clarity, and responsiveness.
 
 ### 🌍 Live Preview
 
-🔗 [View portfolio online](https://your-link.vercel.app)
+🔗 [View portfolio online]([https://your-link.vercel.app](https://roaring-donut-4c5ceb.netlify.app/)
 
 ---
 
@@ -67,4 +67,4 @@ Construido con **HTML** y **CSS** para lograr un diseño moderno y rápido.
 
 ### 🌍 Enlace en vivo
 
-🔗 [Ver portafolio online](https://tu-enlace.vercel.app)
+🔗 [Ver portafolio online]([https://tu-enlace.vercel.app)](https://roaring-donut-4c5ceb.netlify.app/)
