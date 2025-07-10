@@ -19,7 +19,7 @@ Strona została zbudowana w oparciu o **HTML** oraz **CSS**, aby zapewnić nowoc
 
 ### 🌍 Demo
 
-🔗 [Zobacz portfolio online](cheerful-starburst-ccbc62.netlify.app)
+🔗 [Zobacz portfolio online](https://silly-snickerdoodle-dc0f7a.netlify.app/)
 
 ---
 
@@ -43,7 +43,7 @@ Built with **HTML** and **CSS**, for speed, clarity, and responsiveness.
 
 ### 🌍 Live Preview
 
-🔗 [View portfolio online](cheerful-starburst-ccbc62.netlify.app)
+🔗 [View portfolio online](https://silly-snickerdoodle-dc0f7a.netlify.app/)
 
 ---
 
@@ -67,4 +67,4 @@ Construido con **HTML** y **CSS** para lograr un diseño moderno y rápido.
 
 ### 🌍 Enlace en vivo
 
-🔗 [Ver portafolio online](cheerful-starburst-ccbc62.netlify.app)
+🔗 [Ver portafolio online](https://silly-snickerdoodle-dc0f7a.netlify.app/)
